@@ -27,7 +27,28 @@
     font-family: "popins";
     src: url("fonts/Poppins/Poppins-Bold.ttf");
 }
-
-
-
+header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem;
+}
+#logo{
+    width: 10rem;
+}
+#buttton-header {
+    color: var(--LightPink);
+    border: 1px solid var(--LightPink);
+    padding: 0.3rem 1rem;
+    background-color: white;
+    border-radius: 1rem;
+    font-family: "open-sans-regular";
+    cursor: pointer;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.11);
+}
+#buttton-header:hover{
+    background-color: var(--LightPink);
+    color: white;
+}
 
