@@ -33,6 +33,7 @@ header{
     align-items: center;
     justify-content: space-between;
     padding: 2rem;
+    margin-bottom:4rem ;
 }
 #logo{
     width: 10rem;
@@ -51,4 +52,81 @@ header{
     background-color: var(--LightPink);
     color: white;
 }
+#artcl-sec1{
+    width: 80vw;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 5rem;
+}
+#h1-sec1{
+    font-family: "open-sans-bold";
+    font-size: 2rem;
+}
+#p-sec1{
+    width: 30vw;
+    margin:1rem auto;
+    font-family: "open-sans-SemiBold";
+    font-size: 0.9rem;   
+}
+.get-stared-btn {
+    font-family: "open-sans-SemiBold";
+    color: white;
+    background-color: var(--Pink);
+    border-radius: 5rem;
+    box-shadow: 0px 3px 15px rgb(0 0 0 / 31%);
+    padding: 1rem 3rem;
+    border: none;
+    cursor: pointer;
+    border: 1px solid var(--Pink);
+}
+.get-stared-btn:hover{
+    background-color: white;
+    color: var(--Pink);
+    border: 1px solid var(--Pink);
+}
+#ilustration-sec1{
+    width: 45rem;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+
+
+
+
+
+
+.sec2{
+    display: flex;
+    flex-direction: row;
+    width: 40vw;
+    margin: auto;
+    gap: 6rem;
+    text-align: center;
+}
+.secs{
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+}
+
+.numbers-content{
+    font-family: "open-sans-bold";
+    font-size: 4rem;
+}
+.text-under-numbers{
+    font-family: "open-sans-SemiBold";
+    color: rgba(0, 0, 0, 0.377);
+}
+.ilustration-size{
+    width: ;
+}
+
+
+
+
 
