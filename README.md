@@ -1,9 +1,8 @@
 # hudle-landing-page-with-curved-serctions
-# Results-summary-component
 
 Status: **Finalizado 😃**
  ### Descrição do Site
-   Este projeto é uma landing page com sections curvadas e design desenvolvido por [Front-End Mentor](https://www.frontendmentor.io/) usando CSS responisvo e Media queries
+   Este projeto é uma landing page com sections curvadas, design desenvolvido por [Front-End Mentor](https://www.frontendmentor.io/) usando CSS responisvo e Media queries
    
  ### Autores
 - [@RebecaFreitass](https://github.com/RebecaFreitass)
@@ -13,7 +12,7 @@ Status: **Finalizado 😃**
   ---|---|
   34.9%|65.1%
   
-## Experimente!  [ Results-summary-component ](https://rebecafreitass.github.io/Results-summary-component/)
+## Experimente!  [        hudle-landing-page-with-curved-serctions        ](https://rebecafreitass.github.io/Results-summary-component/)
 
 
 
