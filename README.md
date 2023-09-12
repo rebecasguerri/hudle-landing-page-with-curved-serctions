@@ -14,7 +14,7 @@ Status: **Finalizado 😃**
   34.9%|65.1%
   
 ## Experimente!  [ Results-summary-component ](https://rebecafreitass.github.io/Results-summary-component/)
-![ezgif com-gif-maker (1)](https://raw.githubusercontent.com/RebecaFreitass/Results-summary-component/main/Desktop-print.png)
+
 
 
 
