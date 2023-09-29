@@ -7,7 +7,7 @@ Status: **Finalizado 😃**
  ### Autores
 - [@RebecaFreitass](https://github.com/RebecaFreitass)
 
- ### Tecnologias utilizada
+ ### Tecnologias utilizadas
   HTML| CSS 
   ---|---|
   34.9%|65.1%
